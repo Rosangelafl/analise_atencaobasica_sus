@@ -1,6 +1,6 @@
 # embaixadoras_inovacao_SUS
 
-![Viz da análise](https://public.tableau.com/profile/ros.ngela.lotfi#!/vizhome/SUSCoberturaAB/Painel1)
+![Viz da análise](https://public.tableau.com/views/SUSCoberturaAB/Painel1?:language=en&:display_count=y&:origin=viz_share_link)
 
 
 O link com todos os arquivos que compõem a análise estão nesse link](https://drive.google.com/drive/folders/1pfdjvcMqjHTjcKOH_jtqxGaBLYYEavdk?usp=sharing)
